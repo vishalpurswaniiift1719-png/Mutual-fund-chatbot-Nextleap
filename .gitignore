@@ -19,7 +19,7 @@ env/
 .venv/
 
 # Vector Store (regenerated via ingestion pipeline)
-vectorstore/
+# Committing to repo for GitHub Actions scheduler
 
 # IDE
 .vscode/
