@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Navi Fund Assistant</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              "colors": {
+                      "surface-dim": "#dcd9d9",
+                      "on-tertiary-container": "#fff9f9",
+                      "on-secondary-container": "#fefcff",
+                      "secondary-container": "#2670e3",
+                      "surface-container-low": "#f6f3f2",
+                      "inverse-surface": "#313030",
+                      "surface-container-lowest": "#ffffff",
+                      "on-primary-container": "#eeffed",
+                      "inverse-on-surface": "#f3f0ef",
+                      "tertiary-fixed-dim": "#ffb2b8",
+                      "background": "#FFFFFF",
+                      "border-light": "#E5E7EB",
+                      "secondary-fixed-dim": "#aec6ff",
+                      "on-primary": "#ffffff",
+                      "on-secondary": "#ffffff",
+                      "surface-container-high": "#ebe7e7",
+                      "inverse-primary": "#71dc92",
+                      "on-secondary-fixed-variant": "#004396",
+                      "surface-tint": "#006d38",
+                      "surface-container-highest": "#e5e2e1",
+                      "on-tertiary-fixed": "#40000f",
+                      "on-secondary-fixed": "#001a42",
+                      "outline": "#6e7a6f",
+                      "secondary": "#0057bf",
+                      "surface-subtle": "#F3F4F6",
+                      "on-background": "#1c1b1b",
+                      "surface-bright": "#fcf9f8",
+                      "primary-container": "#008545",
+                      "tertiary-fixed": "#ffdadb",
+                      "on-error-container": "#93000a",
+                      "on-tertiary-fixed-variant": "#832334",
+                      "outline-variant": "#bdcabc",
+                      "tertiary-container": "#bd4f5e",
+                      "on-primary-fixed": "#00210d",
+                      "secondary-fixed": "#d8e2ff",
+                      "surface-variant": "#e5e2e1",
+                      "on-tertiary": "#ffffff",
+                      "primary": "#006935",
+                      "tertiary": "#9d3747",
+                      "surface-container": "#f0edec",
+                      "primary-fixed-dim": "#71dc92",
+                      "on-surface-variant": "#3e4a3f",
+                      "status-warning": "#F59E0B",
+                      "surface": "#fcf9f8",
+                      "error": "#ba1a1a",
+                      "on-error": "#ffffff",
+                      "on-primary-fixed-variant": "#005228",
+                      "on-surface": "#1c1b1b",
+                      "primary-fixed": "#8df9ac",
+                      "error-container": "#ffdad6"
+              },
+              "borderRadius": {
+                      "DEFAULT": "0.125rem",
+                      "lg": "0.25rem",
+                      "xl": "0.5rem",
+                      "full": "0.75rem"
+              },
+              "spacing": {
+                      "gutter": "16px",
+                      "container-padding": "24px",
+                      "stack-md": "16px",
+                      "stack-sm": "8px",
+                      "stack-lg": "32px",
+                      "unit": "4px"
+              },
+              "fontFamily": {
+                      "body-lg": ["Inter"],
+                      "label-md": ["Inter"],
+                      "headline-lg": ["Inter"],
+                      "headline-sm": ["Inter"],
+                      "label-sm": ["Inter"],
+                      "data-numeric": ["Inter"],
+                      "headline-md": ["Inter"],
+                      "body-md": ["Inter"]
+              },
+              "fontSize": {
+                      "body-lg": ["16px", {"lineHeight": "24px", "fontWeight": "400"}],
+                      "label-md": ["12px", {"lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "600"}],
+                      "headline-lg": ["28px", {"lineHeight": "36px", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                      "headline-sm": ["16px", {"lineHeight": "24px", "fontWeight": "600"}],
+                      "label-sm": ["11px", {"lineHeight": "14px", "fontWeight": "500"}],
+                      "data-numeric": ["15px", {"lineHeight": "20px", "letterSpacing": "0px", "fontWeight": "600"}],
+                      "headline-md": ["20px", {"lineHeight": "28px", "letterSpacing": "-0.01em", "fontWeight": "600"}],
+                      "body-md": ["14px", {"lineHeight": "20px", "fontWeight": "400"}]
+              }
+            }
+          }
+        }
+      </script>
+<style>
+        body { font-family: 'Inter', sans-serif; }
+      </style>
+</head>
+<body class="bg-surface-bright min-h-screen flex flex-col text-on-surface selection:bg-primary-container selection:text-on-primary-container">
+<!-- TopAppBar -->
+<header class="fixed top-0 left-0 w-full z-50 flex items-center px-container-padding h-16 bg-background/95 backdrop-blur-sm border-b border-border-light justify-between transition-colors duration-200">
+<div class="flex items-center gap-stack-md">
+<div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center text-on-primary font-bold">
+                N
+            </div>
+<h1 class="font-headline-md text-headline-md font-bold text-primary">Navi Fund Assistant</h1>
+</div>
+<div class="flex items-center gap-4">
+<button class="p-2 rounded-full hover:bg-surface-subtle text-on-surface-variant transition-colors duration-200">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 0;">info</span>
+</button>
+</div>
+</header>
+<!-- Main Layout -->
+<main class="flex-grow pt-16 flex max-w-[1200px] mx-auto w-full">
+<!-- Sidebar (Desktop) -->
+<aside class="hidden lg:flex w-64 flex-col border-r border-border-light bg-surface-container-low/30 h-[calc(100vh-4rem)] p-stack-md sticky top-16">
+<div class="mb-stack-lg">
+<button class="w-full flex items-center gap-2 bg-primary text-on-primary px-4 py-2 rounded-lg font-label-md text-label-md hover:bg-surface-tint transition-colors">
+<span class="material-symbols-outlined text-[18px]">add</span>
+                    New Chat
+                </button>
+</div>
+<h2 class="font-label-md text-label-md text-on-surface-variant mb-stack-sm px-2">Recent Queries</h2>
+<nav class="flex-1 overflow-y-auto">
+<ul class="space-y-1">
+<li>
+<a class="block px-3 py-2 rounded-md bg-surface-subtle text-primary font-body-md text-body-md truncate" href="#">
+                            Navi Nifty 50 Expense...
+                        </a>
+</li>
+<li>
+<a class="block px-3 py-2 rounded-md hover:bg-surface-subtle text-on-surface-variant font-body-md text-body-md truncate transition-colors" href="#">
+                            Tax implications of ELSS
+                        </a>
+</li>
+<li>
+<a class="block px-3 py-2 rounded-md hover:bg-surface-subtle text-on-surface-variant font-body-md text-body-md truncate transition-colors" href="#">
+                            Compare Flexi Cap funds
+                        </a>
+</li>
+</ul>
+</nav>
+</aside>
+<!-- Chat Area -->
+<div class="flex-1 flex flex-col h-[calc(100vh-4rem)]">
+<!-- Messages Container -->
+<div class="flex-1 overflow-y-auto p-container-padding pb-32">
+<div class="max-w-[800px] mx-auto space-y-stack-lg">
+<!-- Timestamp -->
+<div class="text-center">
+<span class="font-label-sm text-label-sm text-on-surface-variant bg-surface-container-low px-3 py-1 rounded-full">Today, 10:42 AM</span>
+</div>
+<!-- User Message 1 -->
+<div class="flex flex-col items-end">
+<div class="bg-surface-container-high text-on-surface px-4 py-3 rounded-2xl rounded-tr-sm max-w-[85%] border border-border-light">
+<p class="font-body-lg text-body-lg">Should I invest in this fund?</p>
+</div>
+</div>
+<!-- Assistant Refusal Message -->
+<div class="flex flex-col items-start">
+<div class="flex items-end gap-2 mb-1">
+<div class="w-6 h-6 rounded-full bg-primary flex items-center justify-center text-on-primary text-[10px] font-bold">N</div>
+<span class="font-label-md text-label-md text-on-surface-variant">Navi Assistant</span>
+</div>
+<div class="bg-surface-subtle text-on-surface px-4 py-3 rounded-2xl rounded-tl-sm max-w-[85%] border-l-2 border-status-warning">
+<p class="font-body-lg text-body-lg mb-2">I can only provide factual information about fund schemes. I cannot provide investment advice or recommendations.</p>
+<p class="font-body-md text-body-md text-on-surface-variant">You may find educational resources on the SEBI Investor Education website: <a class="text-secondary underline hover:text-secondary-fixed-variant" href="https://investor.sebi.gov.in/" rel="noopener noreferrer" target="_blank">https://investor.sebi.gov.in/</a></p>
+</div>
+</div>
+<!-- User Message 2 -->
+<div class="flex flex-col items-end mt-stack-lg">
+<div class="bg-surface-container-high text-on-surface px-4 py-3 rounded-2xl rounded-tr-sm max-w-[85%] border border-border-light">
+<p class="font-body-lg text-body-lg">What is the expense ratio of Navi Nifty 50 Index Fund?</p>
+</div>
+</div>
+<!-- Assistant Factual Response -->
+<div class="flex flex-col items-start">
+<div class="flex items-end gap-2 mb-1">
+<div class="w-6 h-6 rounded-full bg-primary flex items-center justify-center text-on-primary text-[10px] font-bold">N</div>
+<span class="font-label-md text-label-md text-on-surface-variant">Navi Assistant</span>
+</div>
+<div class="bg-surface-subtle text-on-surface px-4 py-4 rounded-2xl rounded-tl-sm max-w-[85%]">
+<p class="font-body-lg text-body-lg mb-stack-md">The expense ratio for <span class="font-semibold">Navi Nifty 50 Index Fund Direct Growth</span> is <span class="font-data-numeric text-data-numeric bg-surface-container-high px-1 py-0.5 rounded text-primary">0.06%</span>.</p>
+<p class="font-body-lg text-body-lg mb-stack-md">This is among the lowest in the index fund category.</p>
+<!-- Data Context Card -->
+<div class="bg-background border border-border-light rounded-lg p-3 mt-4 flex items-center justify-between gap-4">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-on-surface-variant text-[18px]">verified</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Source Context</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Navi AMC Official Website</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Input Area -->
+<div class="p-container-padding bg-background/90 backdrop-blur-md border-t border-border-light absolute bottom-0 left-0 lg:left-64 right-0">
+<div class="max-w-[800px] mx-auto">
+<div class="relative flex items-center">
+<input class="w-full bg-surface-container-lowest border border-border-light rounded-full py-3 pl-4 pr-12 focus:outline-none focus:border-primary focus:ring-1 focus:ring-primary font-body-md text-body-md text-on-surface placeholder-on-surface-variant transition-colors shadow-sm" placeholder="Ask about fund details, NAV, or expense ratios..." type="text"/>
+<button class="absolute right-2 p-2 rounded-full bg-primary text-on-primary hover:bg-surface-tint transition-colors flex items-center justify-center">
+<span class="material-symbols-outlined text-[18px]" style="font-variation-settings: 'FILL' 1;">arrow_upward</span>
+</button>
+</div>
+<div class="text-center mt-2">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Last updated from sources: August 28, 2026</span>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- Footer -->
+<footer class="w-full py-4 px-container-padding flex flex-col items-center gap-2 text-center bg-surface-container-low border-t border-status-warning/30 absolute bottom-0 w-full z-10">
+<p class="font-label-sm text-label-sm text-on-surface-variant opacity-90">Facts-only assistant. Data as of Oct 2023. Not financial advice.</p>
+<div class="flex gap-4">
+<a class="font-label-sm text-label-sm text-on-surface-variant hover:text-primary transition-colors" href="#">Legal Disclaimer</a>
+<a class="font-label-sm text-label-sm text-on-surface-variant hover:text-primary transition-colors" href="#">Methodology</a>
+<a class="font-label-sm text-label-sm text-on-surface-variant hover:text-primary transition-colors" href="#">Support</a>
+</div>
+</footer>
+</body></html>

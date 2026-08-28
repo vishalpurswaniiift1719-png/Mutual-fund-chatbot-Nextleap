@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-surface-bright min-h-screen flex flex-col text-on-surface selection:bg-primary-container selection:text-on-primary-container font-body-lg;
+  }
+}
+
+/* Custom Scrollbar for Chat Area */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-surface-variant rounded-full;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-outline-variant;
+}

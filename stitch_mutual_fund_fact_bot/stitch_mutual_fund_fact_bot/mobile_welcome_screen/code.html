@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Navi Fund Assistant</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "surface-dim": "#dcd9d9",
+                        "on-tertiary-container": "#fff9f9",
+                        "on-secondary-container": "#fefcff",
+                        "secondary-container": "#2670e3",
+                        "surface-container-low": "#f6f3f2",
+                        "inverse-surface": "#313030",
+                        "surface-container-lowest": "#ffffff",
+                        "on-primary-container": "#eeffed",
+                        "inverse-on-surface": "#f3f0ef",
+                        "tertiary-fixed-dim": "#ffb2b8",
+                        "background": "#FFFFFF",
+                        "border-light": "#E5E7EB",
+                        "secondary-fixed-dim": "#aec6ff",
+                        "on-primary": "#ffffff",
+                        "on-secondary": "#ffffff",
+                        "surface-container-high": "#ebe7e7",
+                        "inverse-primary": "#71dc92",
+                        "on-secondary-fixed-variant": "#004396",
+                        "surface-tint": "#006d38",
+                        "surface-container-highest": "#e5e2e1",
+                        "on-tertiary-fixed": "#40000f",
+                        "on-secondary-fixed": "#001a42",
+                        "outline": "#6e7a6f",
+                        "secondary": "#0057bf",
+                        "surface-subtle": "#F3F4F6",
+                        "on-background": "#1c1b1b",
+                        "surface-bright": "#fcf9f8",
+                        "primary-container": "#008545",
+                        "tertiary-fixed": "#ffdadb",
+                        "on-error-container": "#93000a",
+                        "on-tertiary-fixed-variant": "#832334",
+                        "outline-variant": "#bdcabc",
+                        "tertiary-container": "#bd4f5e",
+                        "on-primary-fixed": "#00210d",
+                        "secondary-fixed": "#d8e2ff",
+                        "surface-variant": "#e5e2e1",
+                        "on-tertiary": "#ffffff",
+                        "primary": "#006935",
+                        "tertiary": "#9d3747",
+                        "surface-container": "#f0edec",
+                        "primary-fixed-dim": "#71dc92",
+                        "on-surface-variant": "#3e4a3f",
+                        "status-warning": "#F59E0B",
+                        "surface": "#fcf9f8",
+                        "error": "#ba1a1a",
+                        "on-error": "#ffffff",
+                        "on-primary-fixed-variant": "#005228",
+                        "on-surface": "#1c1b1b",
+                        "primary-fixed": "#8df9ac",
+                        "error-container": "#ffdad6"
+                    },
+                    borderRadius: {
+                        DEFAULT: "0.125rem",
+                        lg: "0.25rem",
+                        xl: "0.5rem",
+                        full: "0.75rem"
+                    },
+                    spacing: {
+                        gutter: "16px",
+                        "container-padding": "24px",
+                        "stack-md": "16px",
+                        "stack-sm": "8px",
+                        "stack-lg": "32px",
+                        unit: "4px"
+                    },
+                    fontFamily: {
+                        "body-lg": ["Inter"],
+                        "label-md": ["Inter"],
+                        "headline-lg": ["Inter"],
+                        "headline-sm": ["Inter"],
+                        "label-sm": ["Inter"],
+                        "data-numeric": ["Inter"],
+                        "headline-md": ["Inter"],
+                        "body-md": ["Inter"]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        [data-weight="fill"] .material-symbols-outlined {
+            font-variation-settings: 'FILL' 1;
+        }
+    </style>
+</head>
+<body class="bg-background text-on-background font-body-lg min-h-screen flex flex-col antialiased">
+<!-- TopAppBar from JSON -->
+<header class="fixed top-0 left-0 w-full z-50 flex items-center px-container-padding h-16 bg-background/95 backdrop-blur-sm border-b border-border-light dark:border-outline-variant">
+<div class="flex items-center gap-3 flex-1">
+<div class="w-8 h-8 rounded-full bg-primary-container flex items-center justify-center text-on-primary font-bold text-sm">
+                N
+            </div>
+<h1 class="font-headline-md text-headline-md font-bold text-primary dark:text-primary-fixed-dim">Navi Fund Assistant</h1>
+</div>
+<button aria-label="Info" class="text-on-surface-variant dark:text-surface-variant hover:bg-surface-subtle dark:hover:bg-on-surface-variant p-2 rounded-full transition-colors duration-200">
+<span class="material-symbols-outlined" data-icon="info">info</span>
+</button>
+</header>
+<!-- Main Content -->
+<main class="flex-1 w-full max-w-[800px] mx-auto pt-24 pb-32 px-gutter flex flex-col gap-stack-lg">
+<!-- Welcome & Disclaimer -->
+<section class="flex flex-col gap-stack-sm mt-4">
+<h2 class="font-headline-lg text-headline-lg text-on-surface">Welcome to Navi Fund Assistant.</h2>
+<div class="flex items-start gap-2 mt-2 p-3 bg-surface-container-low border-l-4 border-status-warning rounded-r-DEFAULT">
+<span class="material-symbols-outlined text-status-warning text-sm" data-icon="warning">warning</span>
+<p class="font-label-sm text-label-sm text-on-surface-variant leading-relaxed">
+                    Facts-only assistant. Data as of Oct 2023. Not financial advice.
+                </p>
+</div>
+</section>
+<!-- Categories -->
+<section class="flex flex-col gap-stack-sm">
+<h3 class="font-label-md text-label-md text-on-surface-variant">FUND CATEGORIES</h3>
+<div class="flex flex-wrap gap-2">
+<button class="px-3 py-1.5 rounded-full bg-surface-subtle border border-border-light font-label-md text-label-md text-on-surface hover:border-primary transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent">Largecap</button>
+<button class="px-3 py-1.5 rounded-full bg-surface-subtle border border-border-light font-label-md text-label-md text-on-surface hover:border-primary transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent">Midcap</button>
+<button class="px-3 py-1.5 rounded-full bg-surface-subtle border border-border-light font-label-md text-label-md text-on-surface hover:border-primary transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent">Smallcap</button>
+<button class="px-3 py-1.5 rounded-full bg-surface-subtle border border-border-light font-label-md text-label-md text-on-surface hover:border-primary transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent">ELSS</button>
+<button class="px-3 py-1.5 rounded-full bg-surface-subtle border border-border-light font-label-md text-label-md text-on-surface hover:border-primary transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent">Index Funds</button>
+</div>
+</section>
+<!-- Example Questions -->
+<section class="flex flex-col gap-stack-md">
+<h3 class="font-label-md text-label-md text-on-surface-variant">SUGGESTED QUESTIONS</h3>
+<div class="flex flex-col gap-3">
+<button class="text-left p-4 rounded-lg border border-border-light bg-surface-container-lowest hover:border-primary hover:shadow-sm transition-all duration-200 group flex justify-between items-center">
+<span class="font-body-md text-body-md text-on-surface">What is the expense ratio of Navi Nifty 50 Index Fund?</span>
+<span class="material-symbols-outlined text-border-light group-hover:text-primary transition-colors" data-icon="arrow_forward">arrow_forward</span>
+</button>
+<button class="text-left p-4 rounded-lg border border-border-light bg-surface-container-lowest hover:border-primary hover:shadow-sm transition-all duration-200 group flex justify-between items-center">
+<span class="font-body-md text-body-md text-on-surface">Tell me about the exit load for Midcap 150.</span>
+<span class="material-symbols-outlined text-border-light group-hover:text-primary transition-colors" data-icon="arrow_forward">arrow_forward</span>
+</button>
+<button class="text-left p-4 rounded-lg border border-border-light bg-surface-container-lowest hover:border-primary hover:shadow-sm transition-all duration-200 group flex justify-between items-center">
+<span class="font-body-md text-body-md text-on-surface">What is the minimum SIP amount?</span>
+<span class="material-symbols-outlined text-border-light group-hover:text-primary transition-colors" data-icon="arrow_forward">arrow_forward</span>
+</button>
+</div>
+</section>
+</main>
+<!-- Bottom Input Area (Fixed) -->
+<div class="fixed bottom-0 left-0 w-full bg-background border-t border-border-light p-4 shadow-[0_-4px_12px_rgba(0,0,0,0.02)] z-40">
+<div class="max-w-[800px] mx-auto relative">
+<input class="w-full bg-surface-subtle border border-border-light rounded-full py-3 pl-4 pr-12 font-body-md text-body-md text-on-surface placeholder:text-on-surface-variant focus:outline-none focus:ring-1 focus:ring-primary focus:border-primary transition-colors" placeholder="Ask a factual question about a Navi fund..." type="text"/>
+<button aria-label="Send" class="absolute right-2 top-1/2 -translate-y-1/2 w-8 h-8 flex items-center justify-center rounded-full bg-primary text-on-primary hover:bg-primary-container transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2">
+<span class="material-symbols-outlined text-sm" data-icon="send" data-weight="fill">send</span>
+</button>
+</div>
+</div>
+</body></html>

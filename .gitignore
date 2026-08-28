@@ -1,0 +1,43 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+.Python
+venv/
+env/
+.venv/
+
+# Vector Store (regenerated via ingestion pipeline)
+vectorstore/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (raw scraped files can be large)
+data/raw/*.html
+data/raw/*.pdf
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,4772 @@
+{
+  "success": true,
+  "data": {
+    "fund_id": 1040276,
+    "image_url": "https://indcdn.indmoney.com/public/images/navi-amc-thumbnail-logo.png",
+    "inception_return": 13.26,
+    "name": "Navi Nifty Next 50 Index Fund Direct Growth",
+    "short_name": "Navi Nifty Next 50 Index Fund",
+    "nav": "\u20b917.74",
+    "nav_text": "Latest NAV for Navi Nifty Next 50 Index Fund as of 27 Aug 2026 is \u20b917.74",
+    "nav_date": "27 Aug 2026",
+    "one_day_change": -0.2,
+    "txn_icon": "https://indcdn.indmoney.com/public/images/trend.png",
+    "txn_data": "34167 people have invested \u20b9 8.4Cr in Navi Nifty Next 50 Index Fund in the last three months",
+    "tag_links": [
+      {
+        "name": "Equity",
+        "link": "https://www.indmoney.com/mutual-funds/equity"
+      },
+      {
+        "name": "NAVI Mutual Fund",
+        "link": "https://www.indmoney.com/mutual-funds/amc/navi-mutual-fund"
+      },
+      {
+        "name": "Index Funds",
+        "link": "https://www.indmoney.com/mutual-funds/equity/index-funds"
+      }
+    ],
+    "ctas": [
+      {
+        "enable": true,
+        "web_popup": false,
+        "image_url": "https://indcdn.indmoney.com/cdn-cgi/image/quality=90,format=auto,metadata=copyright,width=100/https://indcdn.indmoney.com/public/images/mf_onetime_cta.png",
+        "bg_color": "#089959",
+        "event_name": "mutualfunds_detail_cta_clicked",
+        "eventProps": {
+          "cta_name": "One Time",
+          "source": "",
+          "page_name": "Navi Nifty Next 50 Index Fund Direct Growth",
+          "is_user_invested_in_fund": "not_invested"
+        },
+        "text": "Invest Now",
+        "nav_link": "https://www.indmoney.com/mf/explore/lumpsum?fund_id=1040276&order_type=1&txn_type=P",
+        "app_store_navlink": "https://indmoney.onelink.me/MgHh/eec5h5n1",
+        "action_id": 2
+      }
+    ],
+    "peers": {
+      "widget_template_name": "mf_peer_analysis",
+      "widget_properties": {
+        "card_data": {
+          "table": {
+            "rows": [
+              {
+                "columns": [
+                  {
+                    "title": "Navi Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1,314Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.15%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.86%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.51%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.41",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.62",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.96",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-1.75",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/navi-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                },
+                "color": "#E8F4FD"
+              },
+              {
+                "columns": [
+                  {
+                    "title": "SBI Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1/8",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2,273Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.38%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.93%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.59%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.36",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.62",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.97",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-6.57",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/sbi-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "Kotak Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2/8",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1,222Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.1%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "12.03%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.65%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.28",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.63",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.97",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-2.24",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/kotak-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "UTI Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "3/8",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "7,360Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.44%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.97%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.63%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.32",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.62",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.97",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-5.03",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/uti-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "ICICI Prudential Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "4/8",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "9,935Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.39%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.72%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.39%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.52",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.61",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.95",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-3.99",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/icici-prudential-nifty-next-50-index-fund-direct-plan-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "Motilal Oswal Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5/8",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "510Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.41%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.87%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.6%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.34",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.62",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.97",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-3.57",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/motilal-oswal-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "DSP Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "6/8",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1,352Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.36%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.92%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.55%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.39",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.62",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.96",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-3.11",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/dsp-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "LIC MF Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "7/8",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "111Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.34%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "12.23%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.63%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.29",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.63",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.97",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-1.57",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/lic-mf-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "HSBC Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "8/8",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "176Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.43%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.55%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.25%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.60",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.99",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.61",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.94",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-2.81",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/hsbc-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "HDFC NIFTY Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2,659Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.36%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.83%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.35%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.57",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.61",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.95",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-4.44",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "Axis Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "535Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.23%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "12.07%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.6%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.32",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.62",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.97",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-2.31",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/axis-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "Aditya Birla Sun Life Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "286Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.3%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.92%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "19.41%",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.51",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.00",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.62",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.95",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-4.29",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/aditya-birla-sun-life-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "JioBlackRock Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "223Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.39%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "12.01%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/jioblackrock-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "Bandhan Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "36Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.21%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.93%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/bandhan-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "Bajaj Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "32Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.44%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.2%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/bajaj-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              },
+              {
+                "columns": [
+                  {
+                    "title": "Groww Nifty Next 50 Index Fund",
+                    "headerId": 1,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 2,
+                    "style": "bold",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11Cr",
+                    "headerId": 3,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.35%",
+                    "headerId": 4,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "11.75%",
+                    "headerId": 5,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-",
+                    "headerId": 6,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 7,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 8,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 9,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 10,
+                    "isCTA": false
+                  },
+                  {
+                    "title": "--",
+                    "headerId": 11,
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "https://www.indmoney.com/mutual-funds/groww-nifty-next-50-index-fund-direct-growth",
+                  "closeScreen": false
+                }
+              }
+            ],
+            "columnHeader": [
+              {
+                "id": 1,
+                "title": "Fund Name",
+                "trait": "text"
+              },
+              {
+                "id": 2,
+                "title": "INDmoney Rank",
+                "trait": "text"
+              },
+              {
+                "id": 3,
+                "title": "AUM (in Crs.)",
+                "trait": "text"
+              },
+              {
+                "id": 4,
+                "title": "Expense Ratio",
+                "trait": "text"
+              },
+              {
+                "id": 5,
+                "title": "1Y Returns",
+                "trait": "text"
+              },
+              {
+                "id": 6,
+                "title": "3Y Returns",
+                "trait": "text"
+              },
+              {
+                "id": 7,
+                "title": "3Y Alpha",
+                "trait": "text"
+              },
+              {
+                "id": 8,
+                "title": "3Y Beta",
+                "trait": "text"
+              },
+              {
+                "id": 9,
+                "title": "3Y Sharpe",
+                "trait": "text"
+              },
+              {
+                "id": 10,
+                "title": "3Y Sortino",
+                "trait": "text"
+              },
+              {
+                "id": 11,
+                "title": "3Y Info Ratio",
+                "trait": "text"
+              }
+            ]
+          },
+          "display_name": "Peer Analysis",
+          "style": "bold"
+        }
+      }
+    },
+    "asset_allocation": {
+      "display_name": "Navi Nifty Next 50 Index Fund Asset Allocation",
+      "display_subtitle": "See fund asset allocation details",
+      "distribution": [
+        {
+          "name": "Equity",
+          "perc": "99.8%",
+          "PercentageVal": 99.8,
+          "market_cap_distribution": {
+            "display_name": "Size breakup",
+            "market_cap": [
+              {
+                "name": "Large cap",
+                "perc": "86.6%",
+                "value": 86.595,
+                "color": "#017AFF"
+              },
+              {
+                "name": "Mid cap",
+                "perc": "13.2%",
+                "value": 13.238,
+                "color": "#BD5E89"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Debt & Cash",
+          "perc": "0.1%",
+          "PercentageVal": 0.1,
+          "market_cap_distribution": {
+            "display_name": "Credit rating breakup"
+          }
+        }
+      ],
+      "as_on": "as on (15-Aug-26)",
+      "category_table": {
+        "columnHeader": [
+          {
+            "id": 1,
+            "title": "Category",
+            "trait": "text"
+          },
+          {
+            "id": 2,
+            "title": "This Fund",
+            "trait": "text"
+          },
+          {
+            "id": 3,
+            "title": "Category Avg",
+            "trait": "text"
+          },
+          {
+            "id": 4,
+            "title": "Highest",
+            "trait": "text"
+          },
+          {
+            "id": 5,
+            "title": "Lowest",
+            "trait": "text"
+          }
+        ],
+        "rows": [
+          {
+            "columns": [
+              {
+                "title": "Large Cap",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "86.59%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "78.39%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "106.60%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Mid Cap",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "13.24%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "14.29%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "92.36%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Small Cap",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "7.13%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "99.75%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Debt & Cache",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.14%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.13%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "100.00%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "-11.62%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sector_allocation": {
+      "display_name": "Navi Nifty Next 50 Index Fund Sector Allocation",
+      "display_subtitle": "See fund sector allocation details",
+      "distribution": [
+        {
+          "name": "Equity",
+          "perc": "99.8%",
+          "PercentageVal": 99.8,
+          "sectors": [
+            {
+              "name": "Financial Services",
+              "perc": "20.1%",
+              "percValue": 20.1
+            },
+            {
+              "name": "Basic Materials",
+              "perc": "13.5%",
+              "percValue": 13.5
+            },
+            {
+              "name": "Consumer Defensive",
+              "perc": "12.3%",
+              "percValue": 12.3
+            },
+            {
+              "name": "Utilities",
+              "perc": "12.1%",
+              "percValue": 12.1
+            },
+            {
+              "name": "Consumer Cyclical",
+              "perc": "11.7%",
+              "percValue": 11.7
+            },
+            {
+              "name": "Industrial",
+              "perc": "10.3%",
+              "percValue": 10.3
+            },
+            {
+              "name": "Health",
+              "perc": "6.3%",
+              "percValue": 6.3
+            },
+            {
+              "name": "Energy",
+              "perc": "5.9%",
+              "percValue": 5.9
+            },
+            {
+              "name": "Real Estate",
+              "perc": "3.2%",
+              "percValue": 3.2
+            },
+            {
+              "name": "Tech",
+              "perc": "2.5%",
+              "percValue": 2.5
+            },
+            {
+              "name": "Communication",
+              "perc": "2.2%",
+              "percValue": 2.2
+            }
+          ]
+        },
+        {
+          "name": "Debt & Cash",
+          "perc": "0.1%",
+          "PercentageVal": 0.1,
+          "sectors": [
+            {
+              "name": "Cash Equivalent",
+              "perc": "100%",
+              "percValue": 100
+            }
+          ]
+        }
+      ],
+      "highlights": {
+        "title": "Sector Changes",
+        "trait": "sectorAllocations",
+        "display_subtext": "All changes are between Aug'26 and May'26",
+        "subtitle": "Top 3 Sectors in July were Corporate, Financial Services & Consumer Cyclical",
+        "mom_change": [
+          {
+            "title": "Jul'26",
+            "changes": [
+              {
+                "left": "Corporate",
+                "left_style": "regular",
+                "bar_top_color": "#017AFF",
+                "bar_top_percentage": 23,
+                "bar_top_value": "23%",
+                "bar_top_value_style": "bold"
+              },
+              {
+                "left": "Financial Services",
+                "left_style": "regular",
+                "bar_top_color": "#017AFF",
+                "bar_top_percentage": 21,
+                "bar_top_value": "21%",
+                "bar_top_value_style": "bold"
+              },
+              {
+                "left": "Consumer Cyclical",
+                "left_style": "regular",
+                "bar_top_color": "#017AFF",
+                "bar_top_percentage": 14,
+                "bar_top_value": "15%",
+                "bar_top_value_style": "bold"
+              }
+            ]
+          },
+          {
+            "title": "Jun'26",
+            "changes": [
+              {
+                "left": "Corporate",
+                "left_style": "regular",
+                "bar_top_color": "#017AFF",
+                "bar_top_percentage": 23,
+                "bar_top_value": "23%",
+                "bar_top_value_style": "bold"
+              },
+              {
+                "left": "Financial Services",
+                "left_style": "regular",
+                "bar_top_color": "#017AFF",
+                "bar_top_percentage": 21,
+                "bar_top_value": "21%",
+                "bar_top_value_style": "bold"
+              },
+              {
+                "left": "Consumer Cyclical",
+                "left_style": "regular",
+                "bar_top_color": "#017AFF",
+                "bar_top_percentage": 14,
+                "bar_top_value": "15%",
+                "bar_top_value_style": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      "as_on": "as on (15-Aug-26)",
+      "category_table": {
+        "columnHeader": [
+          {
+            "id": 1,
+            "title": "Sector",
+            "trait": "text"
+          },
+          {
+            "id": 2,
+            "title": "This Fund",
+            "trait": "text"
+          },
+          {
+            "id": 3,
+            "title": "Category Avg",
+            "trait": "text"
+          },
+          {
+            "id": 4,
+            "title": "Difference",
+            "trait": "text"
+          },
+          {
+            "id": 5,
+            "title": "Highest",
+            "trait": "text"
+          },
+          {
+            "id": 6,
+            "title": "Lowest",
+            "trait": "text"
+          }
+        ],
+        "rows": [
+          {
+            "columns": [
+              {
+                "title": "Financial Services",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "20.50%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "30.60%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "-10.10%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "100.00%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Corporate",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "18.32%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.11%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "+18.21%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "18.32%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Consumer Cyclical",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "15.42%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "11.95%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "+3.46%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "93.99%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Utilities",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "12.99%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "4.63%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "+8.35%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "48.91%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Industrial",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "12.29%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "12.28%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "+0.01%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "67.66%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Consumer Defensive",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "10.86%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "5.66%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "+5.21%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "40.23%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Basic Materials",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "10.58%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "9.05%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "+1.53%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "46.70%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Health",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "8.12%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "6.69%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "+1.43%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "100.00%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Energy",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "4.62%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "7.26%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "-2.64%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "34.41%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Real Estate",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "3.03%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.78%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "+2.25%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "100.00%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Tech",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "1.60%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "7.40%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "-5.81%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "100.00%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Government",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.04%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "-0.04%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "96.51%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          },
+          {
+            "columns": [
+              {
+                "title": "Communication",
+                "headerId": 1,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 2,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "3.67%",
+                "headerId": 3,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "-3.67%",
+                "headerId": 4,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "31.02%",
+                "headerId": 5,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              },
+              {
+                "title": "0.00%",
+                "headerId": 6,
+                "trait": "text",
+                "style": "bold",
+                "isCTA": false
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "holdings": {
+      "display_name": "Navi Nifty Next 50 Index Fund Holdings Details",
+      "display_subtext": "Get fund holding details by Equity, Debt and Cash allocation",
+      "visibleRowsCount": 5,
+      "holdings_count": [
+        {
+          "name": "Equity Holdings",
+          "count": 51,
+          "perc": 99.83286
+        }
+      ],
+      "holdings": [
+        {
+          "name": "Equity",
+          "table": {
+            "rows": [
+              {
+                "name": "Divi's Laboratories Ltd",
+                "perc": "",
+                "sector": "Healthcare",
+                "current_number_of_shares": 65763,
+                "columns": [
+                  {
+                    "title": "Divi's Laboratories Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "4.03%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      62298,
+                      65701,
+                      65701
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/divis-laboratories-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "TVS Motor Co Ltd",
+                "perc": "",
+                "sector": "Consumer Cyclical",
+                "current_number_of_shares": 121556,
+                "columns": [
+                  {
+                    "title": "TVS Motor Co Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "3.99%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      115130,
+                      121441,
+                      121441
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/tvs-motor-company-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Tata Motors Ltd",
+                "perc": "",
+                "sector": "Consumer Cyclical",
+                "current_number_of_shares": 1080739,
+                "columns": [
+                  {
+                    "title": "Tata Motors Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "3.59%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      1024563,
+                      1079722,
+                      1079722
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/tata-motors-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+                "perc": "",
+                "sector": "Industrials",
+                "current_number_of_shares": 98166,
+                "columns": [
+                  {
+                    "title": "Hindustan Aeronautics Ltd Ordinary Shares",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "3.47%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      93009,
+                      98074,
+                      98074
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/hindustan-aeronautics-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Adani Power Ltd",
+                "perc": "",
+                "sector": "Utilities",
+                "current_number_of_shares": 2147134,
+                "columns": [
+                  {
+                    "title": "Adani Power Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "3.45%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      1999599,
+                      2027658,
+                      2145114,
+                      2145114
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.8%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/adani-power-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Cholamandalam Investment and Finance Co Ltd",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 223864,
+                "columns": [
+                  {
+                    "title": "Cholamandalam Investment and Finance Co Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "3.15%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      209950,
+                      223653,
+                      223653
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "6.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/cholamandalam-investment-and-finance-company-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Torrent Pharmaceuticals Ltd",
+                "perc": "",
+                "sector": "Healthcare",
+                "current_number_of_shares": 75906,
+                "columns": [
+                  {
+                    "title": "Torrent Pharmaceuticals Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.96%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      51276,
+                      54251,
+                      54251
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.8%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/torrent-pharmaceuticals-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Cummins India Ltd",
+                "perc": "",
+                "sector": "Industrials",
+                "current_number_of_shares": 69899,
+                "columns": [
+                  {
+                    "title": "Cummins India Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.94%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      66220,
+                      69834,
+                      69834
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/cummins-india-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Samvardhana Motherson International Ltd",
+                "perc": "",
+                "sector": "Consumer Cyclical",
+                "current_number_of_shares": 2286049,
+                "columns": [
+                  {
+                    "title": "Samvardhana Motherson International Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.62%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      2169644,
+                      2283898,
+                      2283898
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.3%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/samvardhana-motherson-international-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Indian Hotels Co Ltd",
+                "perc": "",
+                "sector": "Consumer Cyclical",
+                "current_number_of_shares": 454400,
+                "columns": [
+                  {
+                    "title": "Indian Hotels Co Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.55%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      430476,
+                      453972,
+                      453972
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/indian-hotels-co-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Bharat Petroleum Corp Ltd",
+                "perc": "",
+                "sector": "Energy",
+                "current_number_of_shares": 1048728,
+                "columns": [
+                  {
+                    "title": "Bharat Petroleum Corp Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.55%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      993544,
+                      1047741,
+                      1047741
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/bharat-petroleum-corporation-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Britannia Industries Ltd",
+                "perc": "",
+                "sector": "Consumer Defensive",
+                "current_number_of_shares": 60954,
+                "columns": [
+                  {
+                    "title": "Britannia Industries Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.51%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      57757,
+                      60896,
+                      60896
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/britannia-industries-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Tata Power Co Ltd",
+                "perc": "",
+                "sector": "Utilities",
+                "current_number_of_shares": 863083,
+                "columns": [
+                  {
+                    "title": "Tata Power Co Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.5%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      820692,
+                      862271,
+                      862271
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.1%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/tata-power-company-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Avenue Supermarts Ltd",
+                "perc": "",
+                "sector": "Consumer Defensive",
+                "current_number_of_shares": 83386,
+                "columns": [
+                  {
+                    "title": "Avenue Supermarts Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.49%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      72176,
+                      83307,
+                      83307
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "15.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/avenue-supermarts-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Power Finance Corp Ltd",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 753471,
+                "columns": [
+                  {
+                    "title": "Power Finance Corp Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.43%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      713822,
+                      752762,
+                      752762
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/power-finance-corporation-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Varun Beverages Ltd",
+                "perc": "",
+                "sector": "Consumer Defensive",
+                "current_number_of_shares": 707513,
+                "columns": [
+                  {
+                    "title": "Varun Beverages Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.38%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      670930,
+                      706847,
+                      706847
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/varun-beverages-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "CG Power & Industrial Solutions Ltd",
+                "perc": "",
+                "sector": "Industrials",
+                "current_number_of_shares": 354816,
+                "columns": [
+                  {
+                    "title": "CG Power & Industrial Solutions Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.33%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      336340,
+                      354482,
+                      354482
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/cg-power-and-industrial-solutions-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Adani Energy Solutions Ltd",
+                "perc": "",
+                "sector": "Utilities",
+                "current_number_of_shares": 169939,
+                "columns": [
+                  {
+                    "title": "Adani Energy Solutions Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.13%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      170068,
+                      169779,
+                      169779
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "-0.2%",
+                    "textColor": "#DF3C27",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/adani-energy-solutions-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "HDFC Asset Management Co Ltd",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 105501,
+                "columns": [
+                  {
+                    "title": "HDFC Asset Management Co Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.1%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      99877,
+                      105401,
+                      105401
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/hdfc-asset-management-company-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Indian Oil Corp Ltd",
+                "perc": "",
+                "sector": "Energy",
+                "current_number_of_shares": 1933377,
+                "columns": [
+                  {
+                    "title": "Indian Oil Corp Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "2.06%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      1831638,
+                      1931558,
+                      1931558
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/indian-oil-corporation-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Pidilite Industries Ltd",
+                "perc": "",
+                "sector": "Basic Materials",
+                "current_number_of_shares": 160344,
+                "columns": [
+                  {
+                    "title": "Pidilite Industries Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.97%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      152042,
+                      160194,
+                      160194
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/pidilite-industries-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "GAIL (India) Ltd",
+                "perc": "",
+                "sector": "Utilities",
+                "current_number_of_shares": 1395790,
+                "columns": [
+                  {
+                    "title": "GAIL (India) Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.93%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      1322348,
+                      1394477,
+                      1394477
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/gail-india-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Bajaj Holdings and Investment Ltd",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 22405,
+                "columns": [
+                  {
+                    "title": "Bajaj Holdings and Investment Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.93%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      21224,
+                      22383,
+                      22383
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/bajaj-holdings-and-investment-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "REC Ltd",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 646339,
+                "columns": [
+                  {
+                    "title": "REC Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.83%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      612317,
+                      645731,
+                      645731
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/rec-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Adani Green Energy Ltd",
+                "perc": "",
+                "sector": "Utilities",
+                "current_number_of_shares": 173483,
+                "columns": [
+                  {
+                    "title": "Adani Green Energy Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.83%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      164356,
+                      173320,
+                      173320
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/adani-green-energy-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Vedanta Ltd",
+                "perc": "",
+                "sector": "Basic Materials",
+                "current_number_of_shares": 877492,
+                "columns": [
+                  {
+                    "title": "Vedanta Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.77%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      832991,
+                      876667,
+                      876667
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.2%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/vedanta-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Bank of Baroda",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 960008,
+                "columns": [
+                  {
+                    "title": "Bank of Baroda",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.77%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      909492,
+                      959105,
+                      959105
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/bank-of-baroda-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "United Spirits Ltd",
+                "perc": "",
+                "sector": "Consumer Defensive",
+                "current_number_of_shares": 152858,
+                "columns": [
+                  {
+                    "title": "United Spirits Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.76%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      144801,
+                      152714,
+                      152714
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/united-spirits-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Solar Industries India Ltd",
+                "perc": "",
+                "sector": "Basic Materials",
+                "current_number_of_shares": 12605,
+                "columns": [
+                  {
+                    "title": "Solar Industries India Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.76%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      11942,
+                      12593,
+                      12593
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/solar-industries-india-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Godrej Consumer Products Ltd",
+                "perc": "",
+                "sector": "Consumer Defensive",
+                "current_number_of_shares": 207959,
+                "columns": [
+                  {
+                    "title": "Godrej Consumer Products Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.69%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      197202,
+                      207763,
+                      207763
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/godrej-consumer-products-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "DLF Ltd",
+                "perc": "",
+                "sector": "Real Estate",
+                "current_number_of_shares": 331958,
+                "columns": [
+                  {
+                    "title": "DLF Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.67%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      314481,
+                      331646,
+                      331646
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/dlf-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Canara Bank",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 1739137,
+                "columns": [
+                  {
+                    "title": "Canara Bank",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.65%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      1652795,
+                      1737501,
+                      1737501
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.1%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/canara-bank-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Jindal Steel Ltd",
+                "perc": "",
+                "sector": "Basic Materials",
+                "current_number_of_shares": 191682,
+                "columns": [
+                  {
+                    "title": "Jindal Steel Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.61%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      181559,
+                      191502,
+                      191502
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/jindal-steel-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "LTM Ltd",
+                "perc": "",
+                "sector": "Technology",
+                "current_number_of_shares": 48058,
+                "columns": [
+                  {
+                    "title": "LTM Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.6%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      45488,
+                      48013,
+                      48013
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.6%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/ltm-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Punjab National Bank",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 1782143,
+                "columns": [
+                  {
+                    "title": "Punjab National Bank",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.53%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      1690337,
+                      1780467,
+                      1780467
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.3%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/punjab-national-bank-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "ABB India Ltd",
+                "perc": "",
+                "sector": "Industrials",
+                "current_number_of_shares": 27155,
+                "columns": [
+                  {
+                    "title": "ABB India Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.51%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      25713,
+                      27130,
+                      27130
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/abb-india-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Bosch Ltd",
+                "perc": "",
+                "sector": "Consumer Cyclical",
+                "current_number_of_shares": 4488,
+                "columns": [
+                  {
+                    "title": "Bosch Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.4%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      4252,
+                      4484,
+                      4484
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/bosch-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Shree Cement Ltd",
+                "perc": "",
+                "sector": "Basic Materials",
+                "current_number_of_shares": 6921,
+                "columns": [
+                  {
+                    "title": "Shree Cement Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.37%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      6556,
+                      6914,
+                      6914
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/shree-cement-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Lodha Developers Ltd",
+                "perc": "",
+                "sector": "Real Estate",
+                "current_number_of_shares": 143555,
+                "columns": [
+                  {
+                    "title": "Lodha Developers Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.36%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      138029,
+                      143420,
+                      143420
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "3.9%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/lodha-developers-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Muthoot Finance Ltd",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 55493,
+                "columns": [
+                  {
+                    "title": "Muthoot Finance Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.32%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      52573,
+                      55441,
+                      55441
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/muthoot-finance-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Siemens Ltd",
+                "perc": "",
+                "sector": "Industrials",
+                "current_number_of_shares": 45742,
+                "columns": [
+                  {
+                    "title": "Siemens Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.31%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      43328,
+                      45699,
+                      45699
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/siemens-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Union Bank of India",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 999881,
+                "columns": [
+                  {
+                    "title": "Union Bank of India",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.3%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      947287,
+                      998941,
+                      998941
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/union-bank-of-india-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Hyundai Motor India Ltd",
+                "perc": "",
+                "sector": "Consumer Cyclical",
+                "current_number_of_shares": 73783,
+                "columns": [
+                  {
+                    "title": "Hyundai Motor India Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.22%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      69902,
+                      73713,
+                      73713
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/hyundai-motor-india-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Siemens Energy India Ltd",
+                "perc": "",
+                "sector": "Utilities",
+                "current_number_of_shares": 45764,
+                "columns": [
+                  {
+                    "title": "Siemens Energy India Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.13%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      43358,
+                      45721,
+                      45721
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.4%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/siemens-energy-india-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Zydus Lifesciences Ltd",
+                "perc": "",
+                "sector": "Healthcare",
+                "current_number_of_shares": 129461,
+                "columns": [
+                  {
+                    "title": "Zydus Lifesciences Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.11%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      122636,
+                      129340,
+                      129340
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/zydus-lifesciences-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Ambuja Cements Ltd",
+                "perc": "",
+                "sector": "Basic Materials",
+                "current_number_of_shares": 322614,
+                "columns": [
+                  {
+                    "title": "Ambuja Cements Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.06%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      298975,
+                      322311,
+                      322311
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "7.8%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/ambuja-cements-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Hindustan Zinc Ltd",
+                "perc": "",
+                "sector": "Basic Materials",
+                "current_number_of_shares": 248849,
+                "columns": [
+                  {
+                    "title": "Hindustan Zinc Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "1.02%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      212520,
+                      248615,
+                      248615
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "17%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/hindustan-zinc-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Tata Capital Ltd",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 260474,
+                "columns": [
+                  {
+                    "title": "Tata Capital Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.72%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      211762,
+                      260229,
+                      260229
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "22.9%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/tata-capital-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Mazagon Dock Shipbuilders Ltd",
+                "perc": "",
+                "sector": "Industrials",
+                "current_number_of_shares": 39312,
+                "columns": [
+                  {
+                    "title": "Mazagon Dock Shipbuilders Ltd",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.71%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      37244,
+                      39275,
+                      39275
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/mazagon-dock-shipbuilders-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Indian Railway Finance Corp Ltd Ordinary Shares",
+                "perc": "",
+                "sector": "Financial Services",
+                "current_number_of_shares": 1040859,
+                "columns": [
+                  {
+                    "title": "Indian Railway Finance Corp Ltd Ordinary Shares",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.71%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      986098,
+                      1039880,
+                      1039880
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "5.5%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "/stocks/indian-railway-finance-corporation-ltd-share-price",
+                  "closeScreen": false
+                }
+              },
+              {
+                "name": "Tvs Motor Company Limited",
+                "perc": "",
+                "current_number_of_shares": 385004,
+                "columns": [
+                  {
+                    "title": "Tvs Motor Company Limited",
+                    "headerId": 1,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "title": "0.03%",
+                    "headerId": 2,
+                    "trait": "text",
+                    "isCTA": false
+                  },
+                  {
+                    "headerId": 3,
+                    "trait": "graph",
+                    "graphFillColor": "#E8F4FD",
+                    "graphStrokeColor": "#017AFF",
+                    "graphPoints": [
+                      385004
+                    ],
+                    "isCTA": false
+                  },
+                  {
+                    "title": "100%",
+                    "textColor": "#33A34D",
+                    "headerId": 4,
+                    "style": "bold",
+                    "isCTA": false
+                  }
+                ],
+                "cta": {
+                  "web": "",
+                  "closeScreen": false
+                }
+              }
+            ],
+            "columnHeader": [
+              {
+                "id": 1,
+                "title": "Holdings",
+                "trait": "text"
+              },
+              {
+                "id": 2,
+                "title": "Weight%",
+                "trait": "text"
+              },
+              {
+                "id": 3,
+                "title": "Holdings Trend",
+                "trait": "graph"
+              },
+              {
+                "id": 4,
+                "title": "1M Change",
+                "trait": "text"
+              }
+            ]
+          }
+        }
+      ],
+      "highlights": {
+        "title": "Portfolio Changes",
+        "trait": "Portfolio",
+        "display_subtext": "All changes are between May'26 and Jul'26",
+        "holdings_data": [
+          {
+            "title": "Top Stocks bought last month",
+            "type": "non-tag",
+            "highlights": [
+              {
+                "text": "Adani Power Ltd's allocation increased from 2.08% to 3.79%",
+                "style": "regular",
+                "image_url": "https://indcdn.indmoney.com/public/images/asset_allocation_image_up.png"
+              }
+            ]
+          },
+          {
+            "title": "Top Stocks sold last month",
+            "type": "non-tag",
+            "highlights": [
+              {
+                "text": "Canara Bank's allocation decreased from 2.17 % to 1.72 % ",
+                "style": "regular",
+                "image_url": "https://indcdn.indmoney.com/public/images/allocation_down_img.png"
+              }
+            ]
+          },
+          {
+            "title": "Complete Exits",
+            "tags": [
+              "360 One Wam Ltd Ordinary Shares",
+              "3M India Ltd",
+              "AAVAS Financiers Ltd"
+            ],
+            "type": "tag"
+          }
+        ]
+      },
+      "as_on": "as on (31-Jul-26)"
+    },
+    "slug": "navi-nifty-next-50-index-fund-direct-growth",
+    "fund_overview": {
+      "display_name": "Navi Nifty Next 50 Index Fund Overview",
+      "display_subtitle": "Get key fund statistics, minimum investment details, AUM, expense ratio, exit load, and tax treatment.",
+      "info": [
+        {
+          "name": "Expense ratio",
+          "value": "0.15%"
+        },
+        {
+          "name": "Benchmark",
+          "value": "Nifty Next 50 TR INR",
+          "description": "This is an index against which the fund's performance is measured."
+        },
+        {
+          "name": "AUM",
+          "value": "\u20b91314 Cr"
+        },
+        {
+          "name": "Inception Date",
+          "value": "19 January, 2022"
+        },
+        {
+          "name": "Min Lumpsum/SIP",
+          "value": "\u20b9100/\u20b9100"
+        },
+        {
+          "name": "Exit Load",
+          "value": "0%"
+        },
+        {
+          "name": "Lock In",
+          "value": "No Lock-in"
+        },
+        {
+          "name": "TurnOver",
+          "value": "79.02%",
+          "description": "Turnover ratio reflects the proportion of stocks that have changed in the portfolio in the last 1 year"
+        }
+      ]
+    },
+    "static_content": {
+      "faqs": [
+        {
+          "ans": [
+            {
+              "text": {
+                "label": "INDmoney makes it simple to invest in the Navi Nifty Next 50 Index Fund. To do so, follow the steps below:"
+              },
+              "type": "text"
+            },
+            {
+              "list": [
+                {
+                  "label": "Download the INDmoney app."
+                },
+                {
+                  "label": "Search for \u2018Navi Nifty Next 50 Index Fund\u2019."
+                },
+                {
+                  "label": "Select whether you want to invest in SIP or lump sum."
+                },
+                {
+                  "label": "Enter the amount you wish to invest."
+                },
+                {
+                  "label": "Set up payments via bank mandate or UPI."
+                }
+              ],
+              "type": "ul"
+            }
+          ],
+          "ques": "How do I invest in Navi Nifty Next 50 Index Fund?"
+        },
+        {
+          "ans": [
+            {
+              "text": {
+                "label": "The NAV of the fund today is \u20b917.74. NAV or Net Asset Value is the per unit price of a mutual fund. For example, if the NAV of a fund is \u20b910, it means you can get 1000 units of that mutual fund at \u20b910,000."
+              },
+              "type": "text"
+            }
+          ],
+          "ques": "What is the current NAV of Navi Nifty Next 50 Index Fund?"
+        },
+        {
+          "ans": [
+            {
+              "text": {
+                "label": "Navi Nifty Next 50 Index Fund fund has generated a return of 11.86% in 1 year, 19.51% in 3 years"
+              },
+              "type": "text"
+            }
+          ],
+          "ques": "What is the return on the fund?"
+        },
+        {
+          "ans": [
+            {
+              "text": {
+                "label": "The fund managers are Ashutosh Shirwaikar."
+              },
+              "type": "text"
+            }
+          ],
+          "ques": "Who is the fund manager of Navi Nifty Next 50 Index Fund?"
+        },
+        {
+          "ans": [
+            {
+              "text": {
+                "label": "The expense ratio is 0.15%. The Expense Ratio is a fee charged for managing the fund. This includes commissions, administrative costs etc."
+              },
+              "type": "text"
+            }
+          ],
+          "ques": "What is the expense ratio of the fund?"
+        },
+        {
+          "ans": [
+            {
+              "text": {
+                "label": "The AUM of the fund is \u20b91314 Cr. AUM stands for Assets Under Management. It refers to the total assets managed by the fund."
+              },
+              "type": "text"
+            }
+          ],
+          "ques": "What is the AUM of the fund?"
+        },
+        {
+          "ans": [
+            {
+              "text": {
+                "label": "The top 3 holdings of the fund are Divi's Laboratories Ltd(4.03%), TVS Motor Co Ltd(3.99%), Tata Motors Ltd(3.59%)"
+              },
+              "type": "text"
+            }
+          ],
+          "ques": "What are the top holdings of Navi Nifty Next 50 Index Fund?"
+        }
+      ],
+      "breadcrumbs": [
+        {
+          "label": "Home",
+          "link": "https://www.indmoney.com"
+        },
+        {
+          "label": "Mutual funds",
+          "link": "https://www.indmoney.com/mutual-funds"
+        },
+        {
+          "label": "Navi Nifty Next 50 Index Fund",
+          "link": "https://www.indmoney.com/mutual-funds/navi-nifty-next-50-index-fund-direct-growth"
+        }
+      ],
+      "meta_info": {
+        "meta": "Navi Nifty Next 50 Index Fund Direct Growth \u2013 live NAV, 1Y/3Y/5Y returns vs benchmark, holdings, sector allocation and INDmoney rank. Invest with zero commission.",
+        "title": "Navi Nifty Next 50 Index Fund Direct Growth \u2013 NAV, Returns & Portfolio | INDmoney"
+      }
+    },
+    "risk_meter": {
+      "widget_template_name": "mf_riskometer",
+      "widget_properties": {
+        "body": "Investors understand that their principal will be at Very High Risk",
+        "meter_block": {
+          "aspect_ratio": 1.5,
+          "png": "https://indcdn.indmoney.com/public/images/risk-o-meter-23-05-25.png",
+          "svg": "https://indcdn.indmoney.com/public/images/risk-o-meter.svg"
+        },
+        "meter_score": {
+          "degree": 165
+        },
+        "pointer": {
+          "aspect_ratio": 1.5,
+          "svg": "https://indcdn.indmoney.com/public/images/Group-96373.svg"
+        },
+        "title": "Riskometer",
+        "zone_color": "#33A34D",
+        "zone_title": "Very High Risk"
+      },
+      "tab": 0
+    },
+    "about": {
+      "about_fund": [
+        {
+          "title": "",
+          "text": [
+            {
+              "title": "<p>Navi Nifty Next 50 Index Fund Direct Growth is an equity fund. This fund was started on 19 January, 2022. The fund is managed by Ashutosh Shirwaikar. The fund could potentially beat inflation in the long-run.</p>",
+              "textColor": "#191C1F",
+              "isCTA": false
+            }
+          ]
+        },
+        {
+          "title": "Key Parameters",
+          "text": [
+            {
+              "title": "<ol><li>Navi Nifty Next 50 Index Fund has \u20b91314 Cr worth of assets under management (AUM) as on Aug 2026 and is more than category average.</li><li>The fund has an expense ratio 0.2.<br></li></ol>",
+              "textColor": "#191C1F",
+              "isCTA": false
+            }
+          ]
+        },
+        {
+          "title": "Returns",
+          "text": [
+            {
+              "title": "<p>Navi Nifty Next 50 Index Fund has given a CAGR return of 13.26% since inception. Over the last 1 and 3 years the fund has given a CAGR return of 11.86% and 19.51% respectively.</p>",
+              "textColor": "#191C1F",
+              "isCTA": false
+            }
+          ]
+        },
+        {
+          "title": "Holdings",
+          "text": [
+            {
+              "title": "<p>Navi Nifty Next 50 Index Fund has allocated its funds majorly in Cash Equivalent, Financial Services, Corporate, Consumer Cyclical, Utilities, Industrial, Consumer Defensive, Basic Materials, Health, Energy, Real Estate, Tech. Its top holdings are Divi's Laboratories Ltd, TVS Motor Co Ltd, Tata Motors Ltd, Hindustan Aeronautics Ltd Ordinary Shares, Adani Power Ltd</p>",
+              "textColor": "#191C1F",
+              "isCTA": false
+            }
+          ]
+        },
+        {
+          "title": "Taxation",
+          "text": [
+            {
+              "title": "<p>As it is a index funds mutual fund the taxation is as follows:</br>For short term (less than a year) capital gains will be taxed at 20%</br>For long term (more than 1 year) capital gains will be taxed at 12.5% without indexation benefit</br>Dividends will always be taxed at slab rate. Long term gains upto Rs 1 lakh are exempt capital gains tax.</br></p>",
+              "textColor": "#191C1F",
+              "isCTA": false
+            }
+          ]
+        },
+        {
+          "title": "Investment objective of Navi Nifty Next 50 Index Fund",
+          "text": [
+            {
+              "title": "<p>The investment objective of the Scheme is to invest in companies whose securities are included in Nifty Next 50 Index and to endeavor to achieve the returns of the index as closely as possible, though subject to tracking error. The objective is that the performance of the NAV of the Scheme should closely track the performance of the Nifty Next 50 Index over the same period subject to tracking error. However, there is no assurance that the investment objective of the Scheme will be realized.</p>",
+              "textColor": "#191C1F",
+              "isCTA": false
+            }
+          ]
+        },
+        {
+          "title": "Minimum Investment and lockin period",
+          "text": [
+            {
+              "title": "<p>Minimum investment for lump sum payment is INR&nbsp;100.00 and for SIP is INR&nbsp;100.00. Navi Nifty Next 50 Index Fund has no lock in period.</p>",
+              "textColor": "#191C1F",
+              "isCTA": false
+            }
+          ]
+        }
+      ],
+      "highlights": {
+        "table": {
+          "rows": [
+            {
+              "columns": [
+                {
+                  "title": "AUM",
+                  "textColor": "#191C1F",
+                  "headerId": 1,
+                  "isCTA": false
+                },
+                {
+                  "title": "\u20b9 1.3K Cr",
+                  "textColor": "#191C1F",
+                  "headerId": 2,
+                  "isCTA": false
+                },
+                {
+                  "title": "\u20b9 1.3K Cr",
+                  "textColor": "#191C1F",
+                  "headerId": 3,
+                  "isCTA": false
+                },
+                {
+                  "title": "\u20b9 1.2K Cr",
+                  "textColor": "#191C1F",
+                  "headerId": 4,
+                  "isCTA": false
+                }
+              ]
+            }
+          ],
+          "columnHeader": [
+            {
+              "id": 1,
+              "title": "Parameters",
+              "trait": "text"
+            },
+            {
+              "id": 2,
+              "title": "Jul'26",
+              "trait": "text"
+            },
+            {
+              "id": 3,
+              "title": "Jun'26",
+              "trait": "text"
+            },
+            {
+              "id": 4,
+              "title": "May'26",
+              "trait": "text"
+            }
+          ]
+        },
+        "display_name": "AUM Change",
+        "display_subtext": "All changes are between May'26 and Jul'26",
+        "add_info": [
+          "AUM of the fund stands at 1.3K Cr as of Jul'26",
+          "AUM increased by 47.9 Cr between Jul'26 and Jun'26"
+        ]
+      },
+      "managers": {
+        "widget_template_name": "mf_fund_manager",
+        "widget_properties": {
+          "card_data": {
+            "display_name": "Fund Manager",
+            "managers_info": [
+              {
+                "title": "Ashutosh Shirwaikar",
+                "subtitle": "Fund Manager of  Navi Nifty Next 50 Index Fund, since 1 August 2023"
+              }
+            ]
+          }
+        }
+      },
+      "amc": {
+        "display_name": "Learn more about NAVI Mutual Fund",
+        "link": "https://www.indmoney.com/mutual-funds/amc/navi-mutual-fund"
+      }
+    },
+    "comparisons": {
+      "heading": "Compare Navi Nifty Next 50 Index Fund"
+    },
+    "is_warm_user": false,
+    "meta_info": {
+      "meta": "Navi Nifty Next 50 Index Fund Direct Growth \u2013 live NAV, 1Y/3Y/5Y returns vs benchmark, holdings, sector allocation and INDmoney rank. Invest with zero commission.",
+      "title": "Navi Nifty Next 50 Index Fund Direct Growth \u2013 NAV, Returns & Portfolio | INDmoney",
+      "min_value": "\u20b9100.00",
+      "max_value": "\u20b91000000",
+      "interest_rate": "13.26%"
+    },
+    "is_regular_fund": false,
+    "is_seo_index": true,
+    "is_hide_calculator": false
+  }
+}
