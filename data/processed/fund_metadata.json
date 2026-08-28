@@ -1,54 +1,64 @@
 {
-  "aggressive_allocation": [
+  "global_-_other": [
     {
-      "name": "Navi Aggressive Hybrid Fund Direct Growth",
-      "scheme_code": "4087"
+      "name": "Navi Total Stock Market US Specific Equity Passive FoF Direct Growth",
+      "scheme_code": "1040503"
+    },
+    {
+      "name": "Navi Nasdaq100 US Specific Equity Passive FOF Direct Growth",
+      "scheme_code": "1040650"
     }
   ],
   "index_funds": [
     {
-      "name": "Navi BSE Sensex Index Fund Direct Growth",
-      "scheme_code": "1044230"
-    },
-    {
-      "name": "Navi Nifty 50 Index Fund Direct Growth",
-      "scheme_code": "1039539"
-    },
-    {
-      "name": "Navi Nifty 50 Index Fund Direct Growth",
-      "scheme_code": "1039539"
-    },
-    {
       "name": "Navi Nifty 500 Multicap 50 25 25 Index Fund Direct Growth",
       "scheme_code": "1046792"
-    },
-    {
-      "name": "Navi Nifty Bank Index Fund Direct Growth",
-      "scheme_code": "1040441"
     },
     {
       "name": "Navi Nifty India Manufacturing Index Fund Direct Growth",
       "scheme_code": "1041375"
     },
     {
-      "name": "Navi Nifty IT Index Fund Direct Growth",
-      "scheme_code": "1045241"
+      "name": "Navi Nifty 50 Index Fund Direct Growth",
+      "scheme_code": "1039539"
     },
     {
-      "name": "Navi Nifty Midcap 150 Index Fund Direct Growth",
-      "scheme_code": "1040601"
-    },
-    {
-      "name": "Navi Nifty MidSmallcap 400 Index Fund Direct Growth",
-      "scheme_code": "1054396"
+      "name": "Navi Nifty Smallcap250 Momentum Quality 100 Index Fund Direct Growth",
+      "scheme_code": "1050158"
     },
     {
       "name": "Navi Nifty Next 50 Index Fund Direct Growth",
       "scheme_code": "1040276"
     },
     {
-      "name": "Navi Nifty Smallcap250 Momentum Quality 100 Index Fund Direct Growth",
-      "scheme_code": "1050158"
+      "name": "Navi Nifty MidSmallcap 400 Index Fund Direct Growth",
+      "scheme_code": "1054396"
+    },
+    {
+      "name": "Navi Nifty Bank Index Fund Direct Growth",
+      "scheme_code": "1040441"
+    },
+    {
+      "name": "Navi Nifty 50 Index Fund Direct Growth",
+      "scheme_code": "1039539"
+    },
+    {
+      "name": "Navi BSE Sensex Index Fund Direct Growth",
+      "scheme_code": "1044230"
+    },
+    {
+      "name": "Navi Nifty Midcap 150 Index Fund Direct Growth",
+      "scheme_code": "1040601"
+    },
+    {
+      "name": "Navi Nifty IT Index Fund Direct Growth",
+      "scheme_code": "1045241"
+    }
+  ],
+  "aggressive_allocation": [
+    {
+      "name": "Navi Aggressive Hybrid Fund Direct Growth",
+      "scheme_code": "4087"
     }
   ],
   "elss_(tax_savings)": [
@@ -57,26 +67,16 @@
       "scheme_code": "1043249"
     }
   ],
-  "flexi_cap": [
-    {
-      "name": "Navi Flexi Cap Fund Direct Growth",
-      "scheme_code": "14612"
-    }
-  ],
   "large_&_mid-cap": [
     {
       "name": "Navi Large & Mid Cap Fund Direct Plan Growth",
       "scheme_code": "2862"
     }
   ],
-  "global_-_other": [
+  "flexi_cap": [
     {
-      "name": "Navi Nasdaq100 US Specific Equity Passive FOF Direct Growth",
-      "scheme_code": "1040650"
-    },
-    {
-      "name": "Navi Total Stock Market US Specific Equity Passive FoF Direct Growth",
-      "scheme_code": "1040503"
+      "name": "Navi Flexi Cap Fund Direct Growth",
+      "scheme_code": "14612"
     }
   ]
 }
