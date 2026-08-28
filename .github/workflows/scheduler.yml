@@ -42,4 +42,4 @@ jobs:
           git add data/ vectorstore/
           
           # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Auto-update mutual fund data and vector store" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Auto-update mutual fund data and vector store" && git push origin HEAD:master)
