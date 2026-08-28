@@ -36,17 +36,17 @@ const WelcomeScreen = ({ onExampleClick }) => {
         </div>
 
         {/* Example Questions */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-2 md:gap-4 w-full text-left">
+        <div className="flex flex-wrap justify-center gap-2 md:gap-4 w-full max-w-2xl mx-auto">
           {exampleQuestions.map((q, i) => (
             <button 
               key={i} 
               onClick={() => onExampleClick(q.text)}
-              className="bg-surface-container-lowest border border-border-light p-3 md:p-4 rounded-xl hover:border-primary hover:shadow-sm transition-all group flex flex-row md:flex-col items-center md:items-start gap-3 h-full"
+              className="w-[calc(50%-4px)] sm:w-[calc(33.333%-11px)] aspect-square bg-surface-container-lowest border border-border-light p-3 md:p-4 rounded-2xl shadow-sm hover:shadow-md hover:border-primary hover:-translate-y-1 active:scale-95 transition-all group flex flex-col items-center justify-center gap-2 md:gap-3 cursor-pointer"
             >
-              <div className="min-w-[24px]">
-                {q.icon}
+              <div className="bg-primary/5 group-hover:bg-primary/10 p-2 md:p-3 rounded-full transition-colors duration-300">
+                {React.cloneElement(q.icon, { size: 24, className: "text-primary md:w-8 md:h-8" })}
               </div>
-              <span className="font-body-sm text-body-sm md:font-body-md md:text-body-md text-on-background text-left leading-tight">{q.text}</span>
+              <span className="font-body-sm text-xs md:text-sm text-on-background text-center leading-tight line-clamp-4">{q.text}</span>
             </button>
           ))}
         </div>
