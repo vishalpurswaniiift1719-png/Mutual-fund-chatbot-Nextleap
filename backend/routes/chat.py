@@ -63,7 +63,7 @@ class ChatResponse(BaseModel):
 # ─── Chat Endpoint ───────────────────────────────────────────────────────────
 
 @router.post("/chat", response_model=ChatResponse)
-async def chat(request: ChatRequest):
+def chat(request: ChatRequest):
     """
     Process a user query through the RAG pipeline.
 
@@ -148,20 +148,19 @@ async def chat(request: ChatRequest):
                 session_id=session_id
              )
              
-        # 2. Retrieval
-        context = retriever.retrieve_by_fund(fund_name, query)
-        if not context:
-             return ChatResponse(
-                type="answer",
-                message=f"I don't have information on {fund_name} in my current dataset.",
-                session_id=session_id
-             )
-             
-        # 3. Generation
+        # 2. Retrieval & Generation
         try:
+            context = retriever.retrieve_by_fund(fund_name, query)
+            if not context:
+                 return ChatResponse(
+                    type="answer",
+                    message=f"I don't have information on {fund_name} in my current dataset.",
+                    session_id=session_id
+                 )
+                 
             answer = generator.generate_response(query, context)
         except Exception as e:
-            print(f"Exception during LLM generation: {e}")
+            print(f"Exception during LLM retrieval/generation: {e}")
             error_msg = str(e).lower()
             if "429" in error_msg or "quota" in error_msg or "resource_exhausted" in error_msg:
                 answer = "I'm sorry, but I am currently unavailable because the API rate limit (free tier quota) has been exceeded. Please try again later."

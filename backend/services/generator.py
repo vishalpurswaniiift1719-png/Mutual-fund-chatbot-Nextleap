@@ -19,9 +19,8 @@ class Generator:
             if not GOOGLE_API_KEY:
                 print("WARNING: GOOGLE_API_KEY is not set.")
             self.llm = ChatGoogleGenerativeAI(
-                model="gemini-3.6-flash",
+                model="gemini-3.5-flash-lite",
                 google_api_key=GOOGLE_API_KEY,
-                temperature=0.0,  # Factual, deterministic answers
                 max_retries=0
             )
         else:
