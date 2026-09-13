@@ -13,7 +13,7 @@
     "benchmark_index": "Nifty 50 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-50-index-fund-direct-growth-1039539",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi ELSS Tax Saver Nifty 50 Index Fund Direct Growth",
@@ -29,7 +29,7 @@
     "benchmark_index": "Nifty 50 TR INR",
     "lock_in_period": "3 Years",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-elss-tax-saver-nifty-50-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty IT Index Fund Direct Growth",
@@ -45,14 +45,14 @@
     "benchmark_index": "Nifty IT TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-it-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi BSE Sensex Index Fund Direct Growth",
     "fund_category": "Index Funds",
     "scheme_code": "1044230",
     "nav": "\u20b911.66",
-    "annual_return_since_inception": 5.29,
+    "annual_return_since_inception": 5.23,
     "expense_ratio": "0.38%",
     "exit_load": "0%",
     "min_sip_amount": "\u20b9100",
@@ -61,7 +61,7 @@
     "benchmark_index": "BSE SENSEX TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-bse-sensex-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty Midcap 150 Index Fund Direct Growth",
@@ -77,14 +77,14 @@
     "benchmark_index": "Nifty Midcap 150 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-midcap-150-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty MidSmallcap 400 Index Fund Direct Growth",
     "fund_category": "Index Funds",
     "scheme_code": "1054396",
     "nav": "\u20b910.76",
-    "annual_return_since_inception": 7.99,
+    "annual_return_since_inception": 7.64,
     "expense_ratio": "0.15%",
     "exit_load": "0%",
     "min_sip_amount": "\u20b9100",
@@ -93,7 +93,7 @@
     "benchmark_index": "NIFTY MidSmallcap 400 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-midsmallcap-400-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty Smallcap250 Momentum Quality 100 Index Fund Direct Growth",
@@ -109,14 +109,14 @@
     "benchmark_index": "Nifty Smallcap 250 Momentum Quality 100",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-smallcap250-momentum-quality-100-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Aggressive Hybrid Fund Direct Growth",
     "fund_category": "Aggressive Allocation",
     "scheme_code": "4087",
     "nav": "\u20b925.81",
-    "annual_return_since_inception": 12.01,
+    "annual_return_since_inception": 12,
     "expense_ratio": "0.49%",
     "exit_load": "0%",
     "min_sip_amount": "\u20b9100",
@@ -125,7 +125,7 @@
     "benchmark_index": "CRISIL Hybrid 35+65 - Agg TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-aggressive-hybrid-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty 50 Index Fund Direct Growth",
@@ -141,14 +141,14 @@
     "benchmark_index": "Nifty 50 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-50-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Flexi Cap Fund Direct Growth",
     "fund_category": "Flexi Cap",
     "scheme_code": "14612",
     "nav": "\u20b929.05",
-    "annual_return_since_inception": 13.95,
+    "annual_return_since_inception": 13.93,
     "expense_ratio": "0.51%",
     "exit_load": "0%",
     "min_sip_amount": "\u20b9100",
@@ -157,14 +157,14 @@
     "benchmark_index": "Nifty 500 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-flexi-cap-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty Bank Index Fund Direct Growth",
     "fund_category": "Index Funds",
     "scheme_code": "1040441",
     "nav": "\u20b914.94",
-    "annual_return_since_inception": 9.11,
+    "annual_return_since_inception": 9.16,
     "expense_ratio": "0.15%",
     "exit_load": "0%",
     "min_sip_amount": "\u20b9100",
@@ -173,14 +173,14 @@
     "benchmark_index": "Nifty Bank TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-bank-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty India Manufacturing Index Fund Direct Growth",
     "fund_category": "Index Funds",
     "scheme_code": "1041375",
     "nav": "\u20b919.45",
-    "annual_return_since_inception": 18.16,
+    "annual_return_since_inception": 17.88,
     "expense_ratio": "0.4%",
     "exit_load": "0%",
     "min_sip_amount": "\u20b9100",
@@ -189,7 +189,7 @@
     "benchmark_index": "Nifty India Manufacturing TRI",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-india-manufacturing-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Large & Mid Cap Fund Direct Plan Growth",
@@ -205,7 +205,7 @@
     "benchmark_index": "Nifty LargeMidcap 250 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-large-mid-cap-fund-direct-plan-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty REITs & Realty Index Fund Direct Growth",
@@ -215,20 +215,20 @@
     "annual_return_since_inception": "Not available",
     "expense_ratio": "Not available",
     "exit_load": "0%",
-    "min_sip_amount": "\u20b9100",
-    "min_lumpsum": "\u20b9100",
+    "min_sip_amount": "--",
+    "min_lumpsum": "--",
     "risk": "Very High Risk",
     "benchmark_index": "Nifty REITs & Realty Total Return Index",
     "lock_in_period": "None",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-reits-realty-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty 500 Multicap 50 25 25 Index Fund Direct Growth",
     "fund_category": "Index Funds",
     "scheme_code": "1046792",
     "nav": "\u20b910.10",
-    "annual_return_since_inception": 0.64,
+    "annual_return_since_inception": 0.46,
     "expense_ratio": "0.35%",
     "exit_load": "0%",
     "min_sip_amount": "\u20b9100",
@@ -237,14 +237,14 @@
     "benchmark_index": "Nifty 500 Multicap 50:25:25 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-500-multicap-50-25-25-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nasdaq100 US Specific Equity Passive FOF Direct Growth",
     "fund_category": "Global - Other",
     "scheme_code": "1040650",
-    "nav": "\u20b924.79",
-    "annual_return_since_inception": 22.55,
+    "nav": "\u20b925.04",
+    "annual_return_since_inception": 22.8,
     "expense_ratio": "0.16%",
     "exit_load": "0%",
     "min_sip_amount": "--",
@@ -253,14 +253,14 @@
     "benchmark_index": "NASDAQ 100 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nasdaq100-us-specific-equity-passive-fof-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Nifty Next 50 Index Fund Direct Growth",
     "fund_category": "Index Funds",
     "scheme_code": "1040276",
     "nav": "\u20b917.20",
-    "annual_return_since_inception": 12.54,
+    "annual_return_since_inception": 12.39,
     "expense_ratio": "0.15%",
     "exit_load": "0%",
     "min_sip_amount": "\u20b9100",
@@ -269,14 +269,14 @@
     "benchmark_index": "Nifty Next 50 TR INR",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-nifty-next-50-index-fund-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   },
   {
     "fund_name": "Navi Total Stock Market US Specific Equity Passive FoF Direct Growth",
     "fund_category": "Global - Other",
     "scheme_code": "1040503",
-    "nav": "\u20b922.64",
-    "annual_return_since_inception": 19.46,
+    "nav": "\u20b922.85",
+    "annual_return_since_inception": 19.69,
     "expense_ratio": "0.06%",
     "exit_load": "0%",
     "min_sip_amount": "--",
@@ -285,6 +285,6 @@
     "benchmark_index": "CRSP US Total Market",
     "lock_in_period": "No Lock-in",
     "source_url": "https://www.indmoney.com/mutual-funds/navi-total-stock-market-us-specific-equity-passive-fof-direct-growth",
-    "scrape_date": "2026-09-12"
+    "scrape_date": "2026-09-13"
   }
 ]
